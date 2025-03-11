@@ -77,3 +77,9 @@ We ensemble model predictions using **Nelder-Mead optimization** and apply flood
 
 ## Acknowledgments
 Special thanks to our team members, I could not ask for better teammates!
+
+## Results
+https://zindi.africa/competitions/inundata-mapping-floods-in-south-africa/leaderboard
+
+* Public Leaderboard: 0.002105851
+* Private Leaderboard: 0.002280238
